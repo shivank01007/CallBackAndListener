@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CallBackAndListener</string>
+    <string name="myButton1">Change Text</string>
+    <string name="myText1">Tap On Button.</string>
+    <string name="myButton2">Reset Text</string>
+    <string name="downArrow">TODO</string>
+</resources>
